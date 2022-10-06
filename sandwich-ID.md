@@ -1,5 +1,5 @@
 Make sandwich
-BuatOrit lapis
+Buat roti lapis
 
   * Bread (Roti Tawar)
   * Condensed Milk (Susu Kental Manis)
